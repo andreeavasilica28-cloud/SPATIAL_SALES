@@ -5,7 +5,7 @@ This project focuses on analyzing the sales performance of a retail chain by int
 
 ## 🛠 Technologies Used
 *   **Data Processing & Storage**: SQLite (for complex queries, creating views, and structuring relational data).
-*   **Data Cleaning & Analysis**: Python (Pandas) for preprocessing CSV files.
+*   **Data Cleaning & Analysis**:for preprocessing CSV files.
 *   **Data Visualization**: Power BI (for building the interactive dashboard).
 *   **Version Control**: Git & GitHub.
 
