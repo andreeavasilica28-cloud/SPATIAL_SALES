@@ -30,10 +30,10 @@ The project followed these stages:
 ## 🖼️ Results Visualization
 
 **General Dashboard – Page 1**
-![General Analysis](https://github.com/andreeavasilica28-cloud/SPATIAL_SALES/raw/main/image_1aa15d.png)
+![General Analysis](dashboard_page1.png)
 
 **Detailed Analysis – Page 2 (Decomposition Tree)**
-![Detailed Analysis](https://github.com/andreeavasilica28-cloud/SPATIAL_SALES/raw/main/image_1aa178.png)
+![Detailed Analysis](dashboard_page2.png)
 
 ## 💡 Key Conclusions
 
