@@ -18,7 +18,7 @@ This project analyzes the sales performance of a retail chain by integrating and
 
 The project followed these stages:
 
-1. **Data Preparation**: Cleaned and imported raw CSV data into SQLite tables — [completează dacă ai cifre reale, ex: "removed X duplicate transaction records" / "handled Y missing region values"].
+1. **Data Preparation**: Cleaned and imported raw CSV data into SQLite tables
 2. **SQL Modeling**: Built optimized SQL views to calculate:
    - Total sales and profit by region and city.
    - Profit margin percentage per product category.
