@@ -5,7 +5,7 @@
 
 This project analyzes the sales performance of a retail chain by integrating and processing raw transactional data using SQL, then visualizing it in an interactive Power BI dashboard. The objective was to identify profitability patterns by region, city, and product category, and to surface underperforming areas for business review.
 
-> 📁 Dataset: [completează aici — ex: "Simulated retail dataset created for this project" SAU "Public dataset from Kaggle: [link]"]
+> 📁 Dataset: [Simulated retail dataset created for this project]
 
 ## 🛠 Technologies Used
 
